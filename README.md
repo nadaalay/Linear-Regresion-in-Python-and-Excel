@@ -7,9 +7,10 @@ Excel and Python are the most common tools for data analysis, and several data a
 
 
 ### Files Descriptions 
-	- Data file `<Boston_Housing.csv>` Boston Housing dataset.
-	- One notebook file `<Linear_Regression.ipynb>` which contains the linear regression python code. 
-	- One Excel file `<Boston_Housing_Regression.xls>` - which contains the linear regression by excel. 
+- Data file `Boston_Housing.csv` Boston Housing dataset.
+- One notebook file `Linear_Regression.ipynb` which contains the linear regression python code. 
+- One Excel file `Boston_Housing_Regression.xls` - which contains the linear regression by excel. 
+
 	
 
 ### Note
