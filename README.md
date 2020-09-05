@@ -15,7 +15,7 @@ Excel and Python are the most common tools for data analysis, and several data a
 
 ### Note
 
-More explaination about creating a linear regression model in Python and Excel is available in this [article](https://medium.com/@alay.nada/python-vs-excel-create-a-linear-regression-647e7bc1cfb8).
+**More explaination about creating a linear regression model in Python and Excel is available in this [article](https://medium.com/@alay.nada/python-vs-excel-create-a-linear-regression-647e7bc1cfb8).**
 
 
 
